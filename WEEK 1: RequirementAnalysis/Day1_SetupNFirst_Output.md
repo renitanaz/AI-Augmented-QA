@@ -13,7 +13,7 @@ qa-ai-playground
 /phase-1-ui-ai/
   claude.md
   prompts.md
-  skills.md
+  learning-log.md
   agents.md
 ```
 ### claude.md : Controls AI behavior
@@ -58,7 +58,7 @@ Observation:
 - Some steps are generic
 ```
 
-### skills.md : 
+### learning-log : 
 -  We are using this to track our learning. i.e. Skills we are developing (both QA and AI skills).
 
 ```
