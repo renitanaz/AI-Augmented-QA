@@ -1,5 +1,12 @@
 # Setup + First AI Output
 
+## GOAL
+-  Create GITHUB REPO
+-  Setup teh folder structure
+-  First AI-generated QA test cases
+-  First entries into md files created
+-  First GITHUB commit
+
 ## Setting up 
 
 ### 1. Create repo in github
